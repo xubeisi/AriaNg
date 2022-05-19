@@ -1,5 +1,11 @@
+https://xubeisi.github.io/a2
+
+support: aria2c "https://google.com" --out "google.html" --header "User-Agent: www.google.com" --header "Cookie: XXXX"
+
+
 原AriaNG https://github.com/mayswind/AriaNg
-感谢原作者！
+yuchting https://github.com/yuchting/AriaNg/releases/ add this function -> https://github.com/mayswind/AriaNg/pull/601
+感谢作者 & p3TREX808080
 
 ## 编译
 可以参考原 AriaNG 的编译，不过开发只能在 node v10 版本中编译，最新的 NodeJs 版本无法编译。
